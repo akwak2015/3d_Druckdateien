@@ -1,0 +1,3 @@
+ESP8266 WeMos D1 Mini OLED Display (http://www.thingiverse.com/thing:3199505) by acrobotic is licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/3.0/
+
