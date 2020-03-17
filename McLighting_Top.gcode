@@ -130067,14 +130067,14 @@ M82 ;absolute extrusion mode
 M104 S0
 ;End of Gcode
 ;SETTING_3 {"global_quality": "[general]\\nversion = 4\\nname = PLA Weiss\\ndefi
-;SETTING_3 nition = anycubic_i3_mega\\n\\n[metadata]\\ntype = quality_changes\\n
-;SETTING_3 setting_version = 10\\nquality_type = normal\\n\\n[values]\\nadhesion
+;SETTING_3 nition = anycubic_i3_mega\\n\\n[metadata]\\nsetting_version = 10\\nqu
+;SETTING_3 ality_type = normal\\ntype = quality_changes\\n\\n[values]\\nadhesion
 ;SETTING_3 _type = skirt\\nlayer_height = 0.1\\nmaterial_bed_temperature = 60\\n
 ;SETTING_3 material_bed_temperature_layer_0 = 75\\nsupport_enable = True\\n\\n",
 ;SETTING_3  "extruder_quality": ["[general]\\nversion = 4\\nname = PLA Weiss\\nd
-;SETTING_3 efinition = anycubic_i3_mega\\n\\n[metadata]\\ntype = quality_changes
-;SETTING_3 \\nsetting_version = 10\\nquality_type = normal\\nposition = 0\\ninte
-;SETTING_3 nt_category = default\\n\\n[values]\\ncool_fan_speed_0 = 50\\nmateria
+;SETTING_3 efinition = anycubic_i3_mega\\n\\n[metadata]\\nintent_category = defa
+;SETTING_3 ult\\nquality_type = normal\\nsetting_version = 10\\nposition = 0\\nt
+;SETTING_3 ype = quality_changes\\n\\n[values]\\ncool_fan_speed_0 = 50\\nmateria
 ;SETTING_3 l_final_print_temperature = 185\\nmaterial_flow = 97\\nmaterial_initi
 ;SETTING_3 al_print_temperature = 185\\nmaterial_print_temperature = 185\\nmater
 ;SETTING_3 ial_print_temperature_layer_0 = =material_print_temperature\\nretract
