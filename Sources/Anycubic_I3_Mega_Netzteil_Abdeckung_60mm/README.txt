@@ -1,0 +1,1 @@
+Anycubic Mega S / I3 Mega quiet Powersupply Netzteil PSU Cover Abdeckung | 92mm or 60mm by kuehmayer on Thingiverse: https://www.thingiverse.com/thing:3306465
