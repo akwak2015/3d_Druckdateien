@@ -1,0 +1,1 @@
+Capacitive humidity sensor HB-UNI-Sen-CAP-MOIST by wolwin_de on Thingiverse: https://www.thingiverse.com/thing:4147410
